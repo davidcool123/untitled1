@@ -1,0 +1,28 @@
+body {
+    background-color: indianred;
+}
+
+#content {
+    max-width: 70%;
+    background-color: lightblue;
+    margin: 0 auto;
+}
+
+#header{
+    text-align: center;
+}
+
+#photo-header{
+    text-align: center;
+}
+
+#photo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+#photo-container{
+    height: 50px;
+}
